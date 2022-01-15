@@ -1,0 +1,2 @@
+# NLP-Assignments
+SOLUTIONS FOR NLP @ AIT JAN 2K22
